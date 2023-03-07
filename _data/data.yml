@@ -51,35 +51,28 @@ sidebar:
     #      link:
 
 career-profile:
-    title: Career Profile
+    title: Карьерный профиль
     summary: |
-          Нацеленный на решение проблем бизнеса руководитель группы разработчиков. 10 лет опыта в решении комплексных задач, требующих одновременного участия многих квалифицированных специалистов. С азартом берусь за выполнение задач с неочевидным решением. Внедрил в производство ряд инновационных технических решений, для двух из них являюсь автором патентов. Занимаюсь анализом сложных технологических проблем и поиском способов принести пользу бизнесу.
-      
+          Нацеленный на решение проблем бизнеса руководитель группы разработчиков. 11 лет опыта в решении комплексных задач, требующих одновременного участия многих квалифицированных специалистов. С азартом берусь за выполнение задач с неочевидным решением. Внедрил в производство ряд инновационных технических решений позволивших снизить издержки, выиграть несколько тендеров и вывести продукцию предприятия на международный рынок. Являюсь автором двух патентов. Занимаюсь анализом сложных технологических проблем и поиском способов принести пользу компании.
+          
 education:
-    title: Education
+    title: Образование
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Курс проффесиональной подготовки DataScience+
+        university: Яндекс.Практикум
+        time: 2022 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Изучил python и основные фреймворки необходимые для аналитики, обработки данных и машинного обучения.
+          Освоил профессиональные инструменты, а также освежил знания по статистике, мат. анализу и теории вероятности.
+      - degree: Бакалавр по специальности Промышленное и Гражданское строительство
+        university: Московский Государственный Строительный Институт
+        time: 2014 - 2016
+      - degree: Референт-переводчик с испанского языка (с отличием)
+        university: Российский университет дружбы народов
+        time: 2004 - 2011
+      - degree: Магистр по специальности Химия (с отличием)
+        university: Российский университет дружбы народов
+        time: 2004 - 2011
 experiences:
     title: Experiences
     info:
