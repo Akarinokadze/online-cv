@@ -7,15 +7,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Вадим Куликов
+    name: Vadim Kulikov
     tagline: Data Scientist
     avatar: cat.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: akarinokadze@yandex.ru
     phone:
-    timezone: Moscow Timezone UTC +3
-    citizenship: Russia
+    timezone: Russia, Moscow, UTC +3
+    citizenship:
     website: akarinokadze.github.io/online-cv/ #do not add http://
     linkedin: vadim-kulikov-11781a246
     xing:
@@ -33,7 +33,7 @@ sidebar:
       title: Языки
       info:
         - idiom: Русккий
-          level: Родной
+          level: родной
 
         - idiom: English
           level: B2
@@ -53,12 +53,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+          Нацеленный на решение проблем бизнеса руководитель группы разработчиков. 10 лет опыта в решении комплексных задач, требующих одновременного участия многих квалифицированных специалистов. С азартом берусь за выполнение задач с неочевидным решением. Внедрил в производство ряд инновационных технических решений, для двух из них являюсь автором патентов. Занимаюсь анализом сложных технологических проблем и поиском способов принести пользу бизнесу.
+      
 education:
     title: Education
     info:
